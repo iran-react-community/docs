@@ -13,6 +13,6 @@
    برای ویرایش فایل هایی با پسوند md از نرم افزار markdown pad استفاده کنید یا از ادیتور گیت استفاده نمایید و یا افزونه را برای  MarkDown ویژوال استودیو کد یا انترپرایز دانلود و نصب کنید. استفاده از IDE های JetBrains مثل WebStorm هم گزینه خوبی هست.
    <br>
    <br>
-   در صورت تمایل به نصب نرم افزار رایگان [MarkDown](http://markdownpad.com/download.html)، اگر از ویندوز 10 استفاده میکنید باید [Awesomium 1.6.6 SDK](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe)
+   در صورت تمایل به نصب نرم افزار رایگان <a href="http://markdownpad.com/download.html">MarkDown</a>، اگر از ویندوز 10 استفاده میکنید باید [Awesomium 1.6.6 SDK](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe)
       را نیز بر روی سیستم نصب کنید.
    </p>
