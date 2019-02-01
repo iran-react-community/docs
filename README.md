@@ -9,7 +9,7 @@
 <p lang="fa" dir="rtl" align="right">جامعه ری اکت ایران از  برنامه نویسان و دیگر فعالا مشتاق در حوزه نرم افزار دعوت بعمل می آورد تا با مشارکت در این پروژه به نفوذ هرچه بیشتر فرهنگ اپن سورس در کشور و ایجاد بستر علمی مناسب برای توسعه نرم افزار های تحت وب همکاری نمایند.
 <br>
 <br>
-برای پیوستن به این جامعه و کسب اطلاعات بیشتر می‌تونید با این لینک به گروه تلگرامی Iran React Community متصل بشید. 
+برای پیوستن به این جامعه و کسب اطلاعات بیشتر می‌تونید با <a href="https://t.me/joinchat/B6cKQlE87yBj3VCqT-kT6g">این لینک</a> به گروه تلگرامی Iran React Community متصل بشید. 
 </p>
 
 <h2 lang="fa" dir="rtl" align="right">نحوه مشارکت</h2>
@@ -20,4 +20,3 @@
    در صورت تمایل به نصب نرم افزار رایگان <a href="http://markdownpad.com/download.html">MarkDown</a>، اگر از ویندوز 10 استفاده میکنید باید <a href="http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe">Awesomium 1.6.6 SDK</a>
       را نیز بر روی سیستم نصب کنید.
 </p>
-<a href="https://t.me/joinchat/B6cKQlE87yBj3VCqT-kT6g">این لینک</a>
