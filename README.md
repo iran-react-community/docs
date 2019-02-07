@@ -20,3 +20,7 @@
    در صورت تمایل به نصب نرم افزار رایگان <a href="http://markdownpad.com/download.html">MarkDown</a>، اگر از ویندوز 10 استفاده میکنید باید <a href="http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe">Awesomium 1.6.6 SDK</a>
       را نیز بر روی سیستم نصب کنید.
 </p>
+<br>
+<p lang="fa" dir="rtl" align="right">
+در صورتی که به هر نحو شرایط بهبود بخشیدن به این مطلب را دارید لطفا از کانتریبیوت دریغ نفرمایید.
+   </p>
