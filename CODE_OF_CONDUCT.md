@@ -101,7 +101,7 @@
 <a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct">
 پیمان مشارکت کنندگان
 </a>
-از نسخه ۱.۴ آن تنظیم شده است. برای اطلاعات بیشتر و همینطور پرسش سوالات خود می‌توانید به
+از نسخه ۱.۴ آن تنظیم شده است. برای اطلاعات بیشتر و همینطور طرح سوالات خود می‌توانید به
 <a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct">
 این آدرس
 </a>
