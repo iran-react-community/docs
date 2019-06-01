@@ -1,50 +1,132 @@
-# Contributor Covenant Code of Conduct
+<h1 dir=rtl>
+مرام‌نامه
+</h1>
 
-## Our Pledge
+<h2 dir=rtl>
+تعهد ما
+</h2>
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+<p dir=rtl>
+این جامعه بر پایه آموزش و نشر دانش در حوزه برنامه نویسی frontend و کتابخانه reactjs بنا نهاده شده است.
+<br/>
+ما به عنوان مشارکت کنندگان در ساخت و نگهداری  این جامعه، تعهد داریم که در این جامعه،هرکسی بتواند، جدای آنکه، چه رنگ و نژادی دارد، جنسیتش چه و یا چه سنی داشته باشد، بدون نظر بر اهداف مالی و بسته به علاقه خود در آن سهم  داشته باشد.
+</p>
 
-## Our Standards
+<h2 dir=rtl>
+معیارهای ما
+</h2>
 
-Examples of behavior that contributes to creating a positive environment include:
+<div dir=rtl>
+انتظار داریم، هرکسی که به عنوان مشارکت کننده در بین ما فعالیت دارد، موارد زیر را رعایت کند: 
+</div>
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+<ul dir=rtl>
+  <li dir=rtl>
+    خوش گفتار و خوش رفتار و خوش آمدگو به هر تازه واردی باشد
+  </li>
+<li dir=rtl>
+نسبت به دیدگاه‌ها  و تجارب متفاوت،  محترمانه رفتار کند
+</li>
+<li dir=rtl>
+در مورد انتقاد سازنده با روی گشاده پذیرا باشد
+</li>
+<li dir=rtl>
+روی مواردی تمرکز داشته باشد که برای جامعه بهترین حالت را پیش می‌آورد
+</li>
+<li dir=rtl>
+برای پیشبرد اهداف جامعه، دیگر اعضای جامعه را یاری و مدد کند
+</li>
+</ul>
 
-Examples of unacceptable behavior by participants include:
+<div dir=rtl>
+و همینطور انتظار داریم همکاران مشارکت کننده مانند موارد زیر عمل نکنند:
+</div>
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+<ul dir=rtl>
+<li dir=rtl>
+رفتار و گفتار جنسی، نشر عکس و مطالب جنسی و تلاش برای فعالیت مستهجن
+</li>
+<li dir=rtl>
+تمسخر افراد ویا افکار، شوخی بی‌مورد و توهین
+</li>
+<li dir=rtl>
+دعواهای شخصی، سیاسی یا نژادی/قبیله‌ای
+</li>
+<li dir=rtl>
+آزار و اذیت به هر نحوی
+</li>
+<li dir=rtl>
+نشر اطلاعات دیگران، ایمیل، آدرس، شماره تلفن یا هرچیزی که برای نشر، اجازه به نیاز مالک داشته باشد
+</li>
+<li dir=rtl>
+رفتارهای عام منطقی، که در این محیط حرفه‌ای، نامناسب تلقی شمرده شود
+</li>
+</ul>
 
-## Academic Standards
+<h2 dir=rtl>
+مسئولیت‌های ما
+</h2>
 
-This project is inteded to be used in an academic environment. The solutions uploaded to this repository are supposed to be helping other students to learn the subject. The community of this project (i.e. the students of this course) _must_ take academic integrity seriously. No solutions are allowed to be published before the deadline of that assignment has reached.
+<p dir=rtl>
 
-## Our Responsibilities
+نگهدارندگان پروژه‌ها، باید برای واضح سازی و چگونگی مشارکت، پاسخگو باشند.
+<br/>
+استاندارد‌ها و رفتارهای معقول را تعریف کنند. 
+<br/>
+در مقابل سوالات و ارسال همکاری‌ها، باید بهترین برخورد خود را نشان دهند. 
+<br/>
+همچنین در مقابل رفتارهای غیرمعقول، باید عکس العمل لازم را نشان دهند.
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+</p>
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+<p dir=rtl>
 
-## Scope
+علاه بر این، نگهدارندگان می‌بایست در مورد حذف، رد یا ویرایش موارد همکاری‌ای که بر خلاف مرام‌نامه می‌باشد، با مسئولیت رفتار کنند.
+<br/>
+در این راستا نگهدارندگان حق دارند بعد از تذکر، نفر خاطی را از پروژه حذف و قطع دسترسی کنند.
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+</p>
 
-## Enforcement
+<h2 dir=rtl>
+نگهدارندگان
+</h2>
+<p dir=rtl>
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at vaghari@yahoo.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+نگهدارندگان هر پروژه، در صفحه اصلی همان پروژه و انتهای توضیحات، در قالب یک لیست معرفی می‌شوند.
+<br/>
+این لیست باید شامل ایمیل یا یکی از آدرس‌های شبکه اجتماعی مانند توئیتر باشد. یا آدرس صفحه گیت‌هاب فرد که شامل ایمیل شخص می‌باشد قرار داده شود. 
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+</p>
 
-## Attribution
+<h2 dir=rtl>
+اعمال قانون
+</h2>
+<p dir=rtl>
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+کسانی که از سوی نگهدارندگان منع همکاری شده‌اند می‌توانند با راهبران جامعه تماس مجددی داشته باشند و اعتراض خود را بیان کنند.
+<br/>
+طبیعی‌ است که در اولین فرصت، با نهایت سعه صدر، شکایت بدون درنظر گرفتن هیچ نوع دوستی، رابطه عاطفی، کاری و نفع شخصی بررسی می‌شود.
+<br/>
+فرد یا افراد بررسی کننده شکایات، موظف به حفظ اطلاعات و جزئیات می‌باشند.
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+</p>
+
+<p dir=rtl>
+در صورتی که نگهدارندگان بر طبق مرام‌نامه عمل نکنند طبق تصمیم راهبران و مطابق مرام‌نامه با آنان برخورد خواهد شد، در صورت اعتراض مجدد اگر مورد، قابلیت بیان عمومی داشت، با اعضای جامعه به شور عمومی گذاشته می‌شود و در انتها با رای‌گیری از اعضا تصمیم نهایی اتخاذ خواهد شد.
+</p>
+
+<h2 dir=rtl>
+مجوز
+</h2>
+
+<p dir=rtl>
+این مرام‌نامه بر اساس 
+<a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct">
+پیمان مشارکت کنندگان
+</a>
+از نسخه ۱.۴ آن تنظیم شده است. برای اطلاعات بیشتر و همینطور پرسش سوالات خود می‌توانید به
+<a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct">
+این آدرس
+</a>
+مراجعه کنید.
+</p>

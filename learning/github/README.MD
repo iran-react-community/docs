@@ -6,18 +6,18 @@ GitHub پلت فرم میزبانی کد برای کنترل نسخه و همک�
 
 ## در این آموزش خواهیم دید: ##
 
--Create a repository 
--
+- Create a repository 
+
 - Communicate in issues
-- 
+
 - Manage notifications
-- 
+
 - Create branches
-- 
+
 - Make commits
--
+
 - Introduce changes with pull requests
-- 
+
 
 ----------
 
