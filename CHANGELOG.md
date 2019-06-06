@@ -35,5 +35,3 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - CHANGELOG.md
 
 ### Changed
-- 
-- 
