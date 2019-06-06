@@ -19,8 +19,8 @@
    در صورت تمایل به نصب نرم افزار رایگان <a href="http://markdownpad.com/download.html">MarkDown</a>، اگر از ویندوز 10 استفاده میکنید باید <a href="http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe">Awesomium 1.6.6 SDK</a>
       را نیز بر روی سیستم نصب کنید.
 </p>
-<h2 lang="fa" dir="rtl" align="right">راست به چپ بنویسیم</h2>
-<p lang="fa" dir="rtl"> با افزودن یک تگ دیویژن یا پاراگراف با تنظیم اتریبیوت dir به rtl میتوانیم به سادگی در محیط مارک دان به نوضتن فارسی بپردازیم:
+<h2 lang="fa" dir="rtl" align="right">چگونه راست به چپ بنویسیم</h2>
+<p lang="fa" dir="rtl"> با افزودن یک تگ دیویژن یا پاراگراف با تنظیم اتریبیوت dir به rtl میتوانیم به سادگی در محیط مارک دان به نوشتن فارسی بپردازیم:
 
 ```<div dir="rtl"> متن فارسی </div>```
 </p>
