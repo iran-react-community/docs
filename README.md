@@ -20,11 +20,19 @@
       را نیز بر روی سیستم نصب کنید.
 </p>
 <h2 lang="fa" dir="rtl" align="right">چگونه راست به چپ بنویسیم</h2>
-<p lang="fa" dir="rtl"> با افزودن یک تگ دیویژن یا پاراگراف با تنظیم اتریبیوت dir به rtl میتوانیم به سادگی در محیط مارک دان به نوشتن فارسی بپردازیم:
+<p lang="fa" dir="rtl"> با افزودن یک تگ دیویژن یا پاراگراف با تنظیم اتریبیوت dir به rtl میتوانیم به سادگی در محیط مارک دان به نوشتن فارسی بپردازیم:</p>
 
-```<div dir="rtl"> متن فارسی </div>```
-</p>
+نمونه :```<div dir="rtl"> متن فارسی </div>```
+
 <br>
 <p lang="fa" dir="rtl" align="right">
 در صورتی که به هر نحو شرایط بهبود بخشیدن به این مطلب را دارید لطفا از کانتریبیوت دریغ نفرمایید.
 </p>
+<h4 >
+<layout lang="fa" dir="rtl">
+ادیتور آنلاین نشانه گذاری و ایجاد متون داکیومنت به صورت آنلاین
+</h4>
+
+<p lang="fa" dir="ltr">[https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/ "markdown online editor to create .md files")</span>
+</h4>
+--- 
