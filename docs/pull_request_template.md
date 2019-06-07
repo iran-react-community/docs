@@ -1,12 +1,12 @@
+> ALL PULL REQUESTS MUST TARGET **dev** BRANCH!!!
+
 <h2 lang="fa" dir="rtl" align="right">
  توضیحات 
 </h2>
 
 <div dir="rtl"><b>
 لطفا مختصر تغییرات و اصلاحات انجام شده را شرح، و زمینه موضوع پیشنهادی را مشخص فرمایید. 
-</b> 
-به عنوان مثال: 
-</div>
+</b></div>
 
 > Fixes # (issue)
 > @mentions
