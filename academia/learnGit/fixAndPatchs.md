@@ -28,8 +28,7 @@ b29db5d HEAD@{85}: pull: Fast-forward
 5f92901 HEAD@{88}: commit: Dictation of newly added howto writh rtl updated</pre>
 
 
-کافیست ایندس کامیتی که مشکلات را به وجود آورده پیدا کنید و دستور زیر را اجرا نمایید تا ماشین زمان گیت شما را به آن کامیت بازگرداند.
-
+کافیست ایندکس کامیتی که مشکلات را به وجود آورده پیدا کنید و دستور زیر را اجرا نمایید تا ماشین زمان گیت شما را به آن کامیت بازگرداند.
 
 
 <pre dir=ltr>git reset HEAD@{index}</pre>
@@ -40,9 +39,9 @@ b29db5d HEAD@{85}: pull: Fast-forward
 <pre dir=ltr>git commit --amend</pre>
 
 
-# >Warning #
+<h3 dir=rtl>:warning: Warning </h3>
 
-
+<b dir=rtl>
 > -  هرگز از دستورات حاوی آمِند و ریست بر روی ریپوزیتوری های مشترک استفاده نکنید
 > 
 > -  تنها در صورت مطالعه دقیق و اطمینان باید از چنین دستورات بازگشتی استفاده شود
