@@ -5,10 +5,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ### Added
+- How to write right-to-left in markdown
+- Pull request template
 
 ### Changed
 
 ## [2019-07-06]
+
 ### Added
 
 - Branch dev get created to use as a target for pre-releasing state and centralize collobration pull requests.
@@ -28,10 +31,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ``` remotes/origin/feature-changelog
   remotes/origin/feature-git-flow-guide
-   remotes/origin/patch-1```
+   remotes/origin/patch-1 
+```
 
 ## 2019-03-03
+
 ### Added
+
 - CHANGELOG.md
 
-### Changed
