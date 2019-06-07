@@ -32,5 +32,4 @@
 ادیتور آنلاین نشانه گذاری و ایجاد متون داکیومنت به صورت آنلاین
 </h4>
 
-<p dir="ltr">:point_right: 
-[https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/ "markdown online editor to create .md files")
+<p dir="ltr">:point_right: [markdown online editor](https://jbt.github.io/markdown-editor/ "edit rtl in markdown online")
