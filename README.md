@@ -29,7 +29,7 @@
 در صورتی که به هر نحو شرایط بهبود بخشیدن به این مطلب را دارید لطفا از کانتریبیوت دریغ نفرمایید.
 </p>
 <h4  dir="rtl">
-ادیتور آنلاین نشانه گذاری و ایجاد متون داکیومنت به صورت آنلاین
+ادیتور آنلاین نشانه گذاری و ایجاد متون داکیومنتیشن
 </h4>
 
 <p dir="ltr">:point_right: [markdown online editor](https://jbt.github.io/markdown-editor/ "edit rtl in markdown online")
