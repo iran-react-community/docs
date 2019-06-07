@@ -12,6 +12,7 @@
 </div>
 
 > Fixes # (issue)
+> @mentions
 
 <h2 lang="fa" dir="rtl" align="right">  نوع تغییرا</h2>
 
