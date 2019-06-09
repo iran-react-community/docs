@@ -1,7 +1,4 @@
-<div style="direction:rtl">
-
 # Iran React Community
-
 <h2 lang="fa" dir="rtl" align="right">:black_nib:معرفی</h2>
 <p lang="fa" dir="rtl" align="right">این پروژه با هدف همراهی برنامه نویسان ایران در راستای تولید محتوای آموزشی فارسی، همکاری در ایجاد کامپوننت های عمومی و پر کاربرد و همچنین استفاده از تجربیات یکدیگر در مسیر راه اندازی تکنولوژی های مدرن وب شروع شده.</p> 
 
@@ -12,7 +9,7 @@
 برای پیوستن به این جامعه و کسب اطلاعات بیشتر می‌تونید با <a href="https://t.me/joinchat/B6cKQlE87yBj3VCqT-kT6g">این لینک</a> به گروه تلگرامی Iran React Community متصل بشید. 
 </p>
 <h2 lang="fa" dir="rtl" align="right">:mega:نحوه مشارکت</h2>
-<p lang="fa" dir="rtl" align="right">با ویرایش این فایل شروع کنیم.
+<p lang="fa" dir="rtl" align="right">با فورک این ریپوزیتوری میتوانید شروع به ویرایش این فایل  کنیم.
    برای ویرایش فایل هایی با پسوند md از نرم افزار markdown pad استفاده کنید یا از ادیتور گیت استفاده نمایید و یا افزونه را برای  MarkDown ویژوال استودیو کد یا انترپرایز دانلود و نصب کنید. استفاده از IDE های JetBrains مثل WebStorm هم گزینه خوبی هست.
    <br>
    <br>
@@ -31,5 +28,7 @@
 <h4  dir="rtl">
 ادیتور آنلاین نشانه گذاری و ایجاد متون داکیومنتیشن
 </h4>
-
-<p dir="ltr">:point_right: [markdown online editor](https://jbt.github.io/markdown-editor/ "edit rtl in markdown online")
+<ul dir=rtl>
+<li>
+:point_right: <a href="https://jbt.github.io/markdown-editor/"> markdown online editor </a>
+<li><a href="http://tiny.cc/zkh07y">راهنمای فورک و تنظیم ریپوزیتوری به عنوان مشارکت کننده</a>
